@@ -12,6 +12,8 @@
 ### About me 👋
 - 🤔 No biography
 
+---
+
 ### Languages and Tools
 <div id="languages" align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="typescript" width="40" height="40"/>&nbsp;
@@ -25,6 +27,9 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
 ### My stat
 <div id="stat" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmmaxonchik&theme=react"/>
@@ -32,3 +37,4 @@
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmmaxonchik&theme=react"/>
 </div>
 
+---
