@@ -27,8 +27,8 @@
 </div>
 ### My stat
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?mmmaxonchik=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?mmmaxonchik=vn7n24fzkq&theme=github_dark"/>
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?mmmaxonchik=vn7n24fzkq&theme=github_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmmaxonchik&theme=react"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmmaxonchik&theme=react"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmmaxonchik&theme=react"/>
 </div>
 
