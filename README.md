@@ -1,3 +1,12 @@
+<div id="header" align="center">
+	<h1>Hi , I'm Max</h1>
+	<h3>Web Developer from Moscow</h3>
+</div>
+
+<a href="https://t.me/mmmmaxonchik">
+	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="Telegram"/>
+</a>
+
 ### Hi there 👋
 
 <!--
